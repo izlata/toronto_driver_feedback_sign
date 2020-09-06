@@ -1,4 +1,4 @@
-# “Watch Your Speed” driver feedback sign #627 in school safety zone (Toronto): Data analysis and ML models
+# “Watch Your Speed” Driver feedback sign #627 in school safety zone (Toronto): Data analysis and ML models
 
 
 The Watch Your Speed Program (WYSP) uses devices called driver feedback signs which contain a radar device and an LED display. The radar measures the speeds of oncoming vehicles and the LED sign displays their speeds to the passing motorists, thereby reminding them to check their speeds and to obey speed limits. The City of Toronto’s permanent units are installed in Safety Zones.
